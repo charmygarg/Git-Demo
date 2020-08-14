@@ -1,2 +1,4 @@
 Test git command
-Hello Testing conflict
+New new
+
+Hi There
